@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "nama": "Teh Daun Kelor",
+    "nama_latin": "Moringa oleifera",
+    "kategori": "Teh Herbal",
+    "gambar": "/images/kelor.png",
+    "warna_tema": "#4CAF50",
+    "manfaat": [
+      "Meningkatkan daya tahan tubuh",
+      "Menurunkan kadar gula darah",
+      "Kaya antioksidan",
+      "Mendukung kesehatan jantung"
+    ],
+    "komposisi": ["Daun kelor kering 5g", "Air panas 200ml", "Madu secukupnya (opsional)"],
+    "cara_pembuatan": "Seduh daun kelor kering dengan air panas selama 5-10 menit. Saring dan tambahkan madu jika suka.",
+    "dosis": "1-2 cangkir per hari",
+    "indikasi": [
+      "Penderita diabetes mellitus",
+      "Penderita hipertensi",
+      "Orang dengan daya tahan tubuh rendah"
+    ],
+    "kontraindikasi": [
+      "Ibu hamil dalam dosis tinggi",
+      "Penderita gangguan tiroid yang sedang minum obat"
+    ],
+    "sumber": "Panduan Jamu Nasional Kemenkes RI",
+    "tersedia": true
+  },
+  {
+    "id": 2,
+    "nama": "Wedang Jahe Temulawak",
+    "nama_latin": "Zingiber officinale & Curcuma xanthorrhiza",
+    "kategori": "Wedang",
+    "gambar": "/images/jahe.png",
+    "warna_tema": "#FF9800",
+    "manfaat": [
+      "Menghangatkan tubuh",
+      "Meredakan mual dan masuk angin",
+      "Anti inflamasi",
+      "Meningkatkan nafsu makan"
+    ],
+    "komposisi": ["Jahe segar 10g", "Temulawak 5g", "Gula merah secukupnya", "Air 300ml"],
+    "cara_pembuatan": "Rebus jahe dan temulawak dengan air hingga mendidih selama 15 menit. Saring dan tambahkan gula merah. Sajikan hangat.",
+    "dosis": "1 gelas per hari, diminum hangat",
+    "indikasi": [
+      "Masuk angin",
+      "Mual dan muntah",
+      "Nafsu makan berkurang"
+    ],
+    "kontraindikasi": [
+      "Penderita batu empedu",
+      "Penderita gangguan pembekuan darah"
+    ],
+    "sumber": "Panduan Jamu Nasional Kemenkes RI",
+    "tersedia": true
+  },
+  {
+    "id": 3,
+    "nama": "Jamu Kunyit Asam",
+    "nama_latin": "Curcuma longa & Tamarindus indica",
+    "kategori": "Jamu",
+    "gambar": "/images/kunyit.png",
+    "warna_tema": "#FFC107",
+    "manfaat": [
+      "Melancarkan haid",
+      "Meredakan nyeri haid",
+      "Anti radang alami",
+      "Detoksifikasi tubuh"
+    ],
+    "komposisi": ["Kunyit segar 15g", "Asam jawa 10g", "Gula merah 20g", "Air 500ml"],
+    "cara_pembuatan": "Rebus kunyit yang sudah diparut dengan air. Masukkan asam jawa dan gula merah. Aduk rata, saring, dan sajikan.",
+    "dosis": "1 gelas per hari, diminum rutin",
+    "indikasi": [
+      "Nyeri haid (dismenore)",
+      "Haid tidak teratur",
+      "Peradangan ringan"
+    ],
+    "kontraindikasi": [
+      "Ibu hamil",
+      "Penderita batu saluran kemih",
+      "Penderita gangguan pembekuan darah"
+    ],
+    "sumber": "Panduan Jamu Nasional Kemenkes RI",
+    "tersedia": true
+  },
+  {
+    "id": 4,
+    "nama": "Beras Kencur",
+    "nama_latin": "Oryza sativa & Kaempferia galanga",
+    "kategori": "Jamu",
+    "gambar": "/images/beras-kencur.png",
+    "warna_tema": "#8BC34A",
+    "manfaat": [
+      "Mengatasi batuk dan pilek",
+      "Meningkatkan nafsu makan",
+      "Meredakan sakit tenggorokan",
+      "Menyegarkan badan"
+    ],
+    "komposisi": ["Beras putih 50g", "Kencur segar 10g", "Gula pasir secukupnya", "Air 500ml"],
+    "cara_pembuatan": "Rendam beras semalam, tumbuk halus bersama kencur. Rebus dengan air, saring, beri gula. Sajikan dingin.",
+    "dosis": "1 gelas per hari",
+    "indikasi": [
+      "Batuk pilek ringan",
+      "Anak-anak kurang nafsu makan",
+      "Kelelahan ringan"
+    ],
+    "kontraindikasi": [
+      "Penderita diabetes (kurangi gula)",
+      "Alergi terhadap kencur"
+    ],
+    "sumber": "Panduan Jamu Nasional Kemenkes RI",
+    "tersedia": true
+  },
+  {
+    "id": 5,
+    "nama": "Wedang Uwuh",
+    "nama_latin": "Mix herbal tradisional",
+    "kategori": "Wedang",
+    "gambar": "/images/uwuh.png",
+    "warna_tema": "#795548",
+    "manfaat": [
+      "Menghangatkan tubuh dari dalam",
+      "Meningkatkan metabolisme",
+      "Kaya antioksidan",
+      "Menyegarkan pikiran"
+    ],
+    "komposisi": ["Cengkeh 3g", "Jahe 10g", "Kayu manis 3g", "Pala 2g", "Gula merah secukupnya", "Air 400ml"],
+    "cara_pembuatan": "Rebus semua rempah dengan air selama 20 menit. Saring dan sajikan hangat dengan gula merah.",
+    "dosis": "1 gelas per hari",
+    "indikasi": [
+      "Pegal linu",
+      "Masuk angin",
+      "Badan dingin"
+    ],
+    "kontraindikasi": [
+      "Penderita maag akut",
+      "Ibu hamil trimester awal"
+    ],
+    "sumber": "Panduan Jamu Nasional Kemenkes RI",
+    "tersedia": true
+  },
+  {
+    "id": 6,
+    "nama": "Jamu Beras Kencur",
+    "nama_latin": "Oryza sativa & Kaempferia galanga",
+    "kategori": "Jamu",
+    "gambar": "/images/beras-kencur.png",
+    "warna_tema": "#607D8B",
+    "manfaat": [
+      "Meredakan batuk kering",
+      "Menambah energi",
+      "Memperkuat daya tahan tubuh anak",
+      "Mengurangi rasa capek"
+    ],
+    "komposisi": ["Beras 50g", "Kencur 10g", "Ampas kelapa 20g", "Gula merah 30g", "Air 600ml"],
+    "cara_pembuatan": "Rendam beras semalam, blender halus dengan kencur dan ampas kelapa. Rebus dengan air, saring, beri gula merah.",
+    "dosis": "1 gelas per hari untuk anak-anak",
+    "indikasi": [
+      "Anak-anak sering sakit",
+      "Batuk pilek berulang",
+      "Badan lemas"
+    ],
+    "kontraindikasi": [
+      "Penderita alergi tepung beras",
+      "Penderita diabetes"
+    ],
+    "sumber": "Panduan Jamu Nasional Kemenkes RI",
+    "tersedia": false
+  }
+]
