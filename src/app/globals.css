@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --bg: #f4f7f0;
@@ -29,43 +31,12 @@
   --sky: #0369a1;
 }
 
-@theme inline {
-  --color-bg: var(--bg);
-  --color-bg-warm: var(--bg-warm);
-  --color-surface: var(--surface);
-  --color-surface-solid: var(--surface-solid);
-  --color-surface-hover: var(--surface-hover);
-  --color-border: var(--border);
-  --color-border-medium: var(--border-medium);
-  --color-text: var(--text);
-  --color-text-secondary: var(--text-secondary);
-  --color-text-muted: var(--text-muted);
-  --color-primary: var(--primary);
-  --color-primary-light: var(--primary-light);
-  --color-primary-dark: var(--primary-dark);
-  --color-accent: var(--accent);
-  --color-accent-light: var(--accent-light);
-  --color-warm: var(--warm);
-  --color-warm-light: var(--warm-light);
-  --color-rose: var(--rose);
-  --color-rose-light: var(--rose-light);
-  --color-emerald: var(--emerald);
-  --color-emerald-light: var(--emerald-light);
-  --color-earth: var(--earth);
-  --color-earth-light: var(--earth-light);
-  --color-moss: var(--moss);
-  --color-moss-light: var(--moss-light);
-  --color-sky: var(--sky);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  font-family: 'Inter', system-ui, sans-serif;
   overflow-x: hidden;
 }
 
